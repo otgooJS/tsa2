@@ -1,0 +1,26 @@
+//**************** General styles ************************
+$bg-color-light: yellow;
+$text-color1: green;
+$text-color2: blue;
+
+.general-style {
+  * {
+    margin: 0;
+    padding: 0;
+    //Энийг бичсэнээс болж дээрх process-icon, process-step ажиллахгүй бсан бна!!!
+    // box-sizing: border-box;
+  }
+  body {
+    line-height: 1.7;
+    background: $bg-color-light;
+    color: $text-color2;
+  }
+
+  h3 {
+    color: $text-color2;
+  }
+}
+
+.h1-style {
+  color: $text-color1;
+}
