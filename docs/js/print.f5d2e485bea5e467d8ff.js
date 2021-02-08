@@ -1,0 +1,1 @@
+(self.webpackChunkTsagaanTolgoi01=self.webpackChunkTsagaanTolgoi01||[]).push([[740],{897:(a,s,e)=>{}},0,[[897,666]]]);

@@ -1,0 +1,1 @@
+(self.webpackChunkTsagaanTolgoi01=self.webpackChunkTsagaanTolgoi01||[]).push([[21],{435:(o,a,e)=>{"use strict";var l=e(486),n=e.n(l);console.log(n().join(["Another","module","loaded!"]," "))}},0,[[435,666,216]]]);
